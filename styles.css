@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* FONDO DEL BODY*/
+  .fondoIndex{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #363638;
+    height: auto;
+    background-image: url(PIC/fondo4.jpg);
+    }
+
+    p {
+      font-weight: bold;
+      color: white;
+    }
+    img:hover{
+      transform: scale(1.02);
+     }
+     .col img {
+      border-radius: 10px;
+      border-bottom:  15px;
+    }
+   .carousel-item{
+    height: 500px;
+    width: 60%;
+   }
+   header {
+    margin-bottom: 50px;
+  }
+  .col img{
+    margin-top: 50px;
+  }
+  .btn{
+    margin-top: 10px;
+  }
+   
+     
